@@ -38,9 +38,9 @@
 Проект распространяется под лицензией MIT. 
 
 ## скачать можно здесь 
-**telegram**
+## telegram
 https://t.me/kyzo_optimizator
-**mega**
+## mega
 https://mega.nz/file/MBVERYZZ#sqGM8q6KvqdDMtunamnm2MifROrBkrMZKhdJQnDh7zg 
 ## пароль **kyzoSetup**
 git hub не позволяет больше 25mb 
