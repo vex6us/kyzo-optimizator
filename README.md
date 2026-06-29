@@ -44,3 +44,4 @@ https://t.me/kyzo_optimizator
 https://mega.nz/file/MBVERYZZ#sqGM8q6KvqdDMtunamnm2MifROrBkrMZKhdJQnDh7zg 
 ## пароль **kyzoSetup**
 git hub не позволяет больше 25mb 
+в обычном репозитории
