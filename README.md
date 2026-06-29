@@ -20,7 +20,7 @@
 * **Gaming:** Тонкая настройка системы для максимального FPS и управление функциями Xbox.
 * **UI:** Оптимизация визуальных эффектов, анимаций и интерфейса.
 * **Очистка:** Удаление предустановленного мусора (OneDrive, Skype, OneNote, Candy Crush и др.).
-## пароль kyzoSetup
+*  пароль **kyzoSetup*
 ## 📸 Интерфейс
 <p align="center">
   <img src="screen.png" alt="Kyzo Optimizer Screenshot" width="600">
@@ -36,4 +36,4 @@
 
 ## 📝 Лицензия
 Проект распространяется под лицензией MIT.
-## пароль kyzoSetup
+## пароль **kyzoSetup**
