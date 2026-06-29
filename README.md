@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.0-blue.svg" alt="Version">
-  <img src="https://img.shields.io/badge/OS-Windows_11-brightgreen.svg" alt="OS">
+  <img src="https://img.shields.io/badge/OS-Windows-brightgreen.svg" alt="OS">
   <img src="https://img.shields.io/badge/License-MIT-red.svg" alt="License">
 </p>
 
